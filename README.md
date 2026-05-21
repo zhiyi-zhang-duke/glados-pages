@@ -2,7 +2,7 @@
 
 A GitHub Pages repo for viewing AI-generated HTML documents on the go.
 
-Files are pushed here automatically from **glados** (my self-hosted home server at self-hosted server) by Claude Code agents. The typical workflow:
+Files are pushed here automatically from **glados** (my self-hosted home server) by Claude Code agents. The typical workflow:
 
 1. Claude generates an infographic or doc (usually via `/md-to-infographic`) on glados
 2. Claude offers to push it here
