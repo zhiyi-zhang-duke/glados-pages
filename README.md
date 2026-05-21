@@ -14,6 +14,6 @@ Files here are generated artifacts — research notes, plans, infographics, and 
 
 ## Setup notes
 
-- Source machine: glados (Ubuntu, `jzhanglsw`)
+- Source machine: glados (self-hosted Ubuntu server)
 - Push method: SSH key (`~/.ssh/id_ed25519_github`), cloned at `~/glados-pages/`
 - Pages config: deploy from `master` branch, root `/`
